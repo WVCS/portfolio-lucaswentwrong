@@ -28,6 +28,6 @@ table, tr {color: green}
 
 /* Add a color to the active/current link */
 .topnav a.active {
-  background-color: #5d5;
+  background-color: #060;
   color: white;
 }
